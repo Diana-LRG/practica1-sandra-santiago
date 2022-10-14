@@ -1,2 +1,2 @@
-# practica1-sandra-santiago
+# practica1-Diana Ramírez
 PRACTICA 1 DEL TEMA 1 DE LA MATERIA DE PROGRAMACION EN AMBIENTE CIENTE SERVIDOR GRUPO B
